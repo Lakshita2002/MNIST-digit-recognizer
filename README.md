@@ -1,5 +1,6 @@
 # MNIST-digit-recognizer
 This is my submission for kaggle competition of MNIST dataset <br>
+View my kaggle submission [here](https://www.kaggle.com/lakshita2002/implementing-cnn-with-keras-99-089-accuracy)<br>
 I achieved a final accuracy of `99.14%` in it <br>
 Here, I've used a CNN model and implemented the same using Keras
 # Convolutional Neural Network plot
